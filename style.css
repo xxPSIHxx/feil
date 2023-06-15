@@ -1,0 +1,54 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+
+body {
+ 
+    background-image: url(https://tools.webdevpuneet.com/css-gradient-generator/gradient.php?t=linear&d=bottom%20right&r=on&sp=1a1a1a_0_%25__191919_20.3_%25__300b0b0b_26.3_%25__8f000000_43_%25__1a1a1a_67.4_%25__191919_100_%25);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+}
+
+
+
+hr {
+    background-color: #FFFFFF;
+    box-shadow: 3px 0px 21px 5px rgb(0, 171, 174);
+    display: flex;
+    width: 100%;
+    height: 10px;
+    margin: 30px 0px;
+ 
+}
+
+img {
+    box-shadow: 3px 0px 21px 7px rgb(0, 174, 159);
+}
+
+h1 {
+    
+    margin: 20px 0;
+    font-size: 50px;
+    text-shadow: 2px 2px 20px rgb(0, 171, 174);
+   
+}
+
+.bloc {
+
+text-shadow: 0px 0px 8px rgb(108, 73, 113);
+display: inline-block;
+
+}
+
+.coten {
+    color: #fff;
+}
+
+.nazvanir {
+
+}
